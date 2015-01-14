@@ -1,12 +1,12 @@
-Title: MRC L'Assomption Bus (MonTransit)
+Title: MRC L'Assomption (RTCR) Bus (MonTransit)
 ----------
-Short description: MRC L'Assomption bus information for MonTransit BETA.
+Short description: MRC L'Assomption (RTCR) bus information for MonTransit BETA.
 ----------
 Full description:
 BETA: TEST IN PROGRESS
 To leave the test: http://goo.gl/C7aCSY
 
-This application adds MRC L'Assomption bus information to MonTransit BETA.
+This application adds MRC L'Assomption (RTCR) bus information to MonTransit BETA.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 
@@ -20,7 +20,7 @@ http://www.amt.qc.ca/developers/
 This application is free and open-source:
 https://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-android
 
-This app is not related with the Agence Métropolitaine de Transport and MRC L'Assomption.
+This app is not related with the Agence Métropolitaine de Transport and MRC L'Assomption (RTCR).
 ----------
 Application type: Applications
 ----------

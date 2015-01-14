@@ -1,12 +1,12 @@
-Title: Bus MRC L'Assomption (MonTransit)
+Title: Bus MRC L'Assomption (RTCR) (MonTransit)
 ----------
-Short description: Informations des bus MRC L'Assomption pour MonTransit BETA.
+Short description: Informations des bus MRC L'Assomption (RTCR) pour MonTransit BETA.
 ----------
 Full description:
 BETA : TEST EN COURS
 Pour quitter le test : http://goo.gl/C7aCSY
 
-Cette application ajoute les informations des bus MRC L'Assomption à MonTransit BETA.
+Cette application ajoute les informations des bus MRC L'Assomption (RTCR) à MonTransit BETA.
 
 Une fois cette application installée, l'application MonTransit BETA affichera les informations du bus (horaires ...).
 
@@ -20,4 +20,4 @@ http://www.amt.qc.ca/developpeurs/
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et MRC L'Assomption.
+Cette application n'est pas associée à l'Agence Métropolitaine de Transport et MRC L'Assomption (RTCR).
