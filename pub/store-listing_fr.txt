@@ -3,14 +3,14 @@ Title: Bus MRC L'Assomption (RTCR) (MonTransit)
 Short description: Informations des bus MRC L'Assomption (RTCR) pour MonTransit BETA.
 ----------
 What's new in this version?:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Horaires du 1 Décembre 2014 au 22 Janvier 2020.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Cette application ajoute les informations des bus MRC L'Assomption (RTCR) à MonTransit BETA.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Le MRC L'Assomption (RTCR) dessert Charlemagne, L'Assomption, L'Épiphanie et Repentigny.
 
