@@ -5,7 +5,7 @@ MRC L'Assomption (RTCR) buses for MonTransit
 Schedule…
 ----------
 What's new in this version?:
-Schedule from December 1, 2014 to June 20, 2015.
+Schedule from June 21, 2015 to June 3, 2020.
 ----------
 Full description:
 This application adds MRC L'Assomption (RTCR) buses information to MonTransit.
