@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">MonTransit MRC L\'Assomption (RTCR) Bus</string>
-    <string name="app_desc">MRC L\'Assomption (RTCR) bus data for MonTransit.</string>
+    <string name="app_name">MonTransit RTM (MRC) L\'Assomption (RTCR) Bus</string>
+    <string name="app_desc">RTM (MRC) L\'Assomption (RTCR) bus data for MonTransit.</string>
 </resources>
