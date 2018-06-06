@@ -1,16 +1,16 @@
-Title: Bus MRC L'Assomption RTCR - M…
+Title: Bus RTM (MRC) L'Assomption (RTCR) - MonTransit
 ----------
 Short description:
-Autobus MRC L'Assomption (RTCR) pour MonTransit.
+Autobus RTM (MRC) L'Assomption (RTCR) pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
 Horaires du 25 décembre 2017 au 3 juin 2020.
 ----------
 Full description:
-Cette application ajoute les informations des autobus MRC L'Assomption (RTCR) à MonTransit.
+Cette application ajoute les informations des autobus RTM (MRC) L'Assomption (RTCR) à MonTransit.
 
-Le MRC L'Assomption (RTCR) dessert Charlemagne, L'Assomption, L'Épiphanie et Repentigny.
+Le RTM (MRC) L'Assomption (RTCR) dessert Charlemagne, L'Assomption, L'Épiphanie et Repentigny.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -24,4 +24,4 @@ https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et MRC L'Assomption (RTCR).
+Cette application n'est pas associée à l'Agence Métropolitaine de Transport et RTM (MRC) L'Assomption (RTCR).
