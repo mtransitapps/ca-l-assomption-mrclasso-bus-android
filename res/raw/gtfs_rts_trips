@@ -5,7 +5,7 @@
 501,0,'Gare Repentigny',5
 500,0,'Jacques-Plante',5
 600,0,'Assomption',6
-601,0,'Épiphanie',6
+601,0,'Repentigny',6
 800,0,'Assomption',8
 801,0,'Repentigny',8
 901,0,'Place Repentigny',9
@@ -24,3 +24,4 @@
 30000,0,'Repentigny',300
 40000,0,'Assomption',400
 40001,0,'Montréal',400
+2000100,0,'Repentigny',20001
