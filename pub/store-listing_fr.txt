@@ -5,7 +5,7 @@ Autobus RTM (MRC) L'Assomption (RTCR) pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
-Horaires du 24 juin 2018 au 18 août 2018.
+Horaires du 18 juin 2018 au 18 août 2018.
 ----------
 Full description:
 Cette application ajoute les informations des autobus RTM (MRC) L'Assomption (RTCR) à MonTransit.
