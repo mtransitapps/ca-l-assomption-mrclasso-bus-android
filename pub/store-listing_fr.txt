@@ -1,16 +1,19 @@
-Title: Bus RTM (MRC) L'Assomption (RTCR) - MonTransit
+Title: Bus exo L'Assomption - MonTransit
 ----------
 Short description:
-Autobus RTM (MRC) L'Assomption (RTCR) pour MonTransit.
+Autobus exo L'Assomption pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
+(AMT/MRC/RTCR => RTM => exo)
 Horaires du 18 juin 2018 au 18 août 2018.
 ----------
 Full description:
-Cette application ajoute les informations des autobus RTM (MRC) L'Assomption (RTCR) à MonTransit.
+Cette application ajoute les informations des autobus exo L'Assomption à MonTransit.
 
-Le RTM (MRC) L'Assomption (RTCR) dessert Charlemagne, L'Assomption, L'Épiphanie et Repentigny.
+Cette application contient les horaires (disponibles sans connexion).
+
+exo L'Assomption dessert Charlemagne, L'Assomption, L'Épiphanie et Repentigny.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -18,10 +21,13 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
+https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et RTM (MRC) L'Assomption (RTCR).
+Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo L'Assomption.
+
+exo L'Assomption était précédemment connu sous le nom de RTM Secteur L'Assomption et MRC L'Assomption (RTCR).
+exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
