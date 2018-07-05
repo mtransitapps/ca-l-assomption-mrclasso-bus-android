@@ -29,8 +29,8 @@ https://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-android
 
 This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo L'Assomption.
 
-exo L'Assomption was formely know as RTM L'Assomption sector and MRC L'Assomption (RTCR).
-exo was formely know as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
+exo L'Assomption was formerly known as RTM L'Assomption sector and MRC L'Assomption (RTCR).
+exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 ----------
 Application type: Applications
 ----------
