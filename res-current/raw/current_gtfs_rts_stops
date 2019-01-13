@@ -1,11 +1,9 @@
 84125,'84125','Montée Des Pionniers / Pierre-Le Gardeur',45.718186,-73.511228
 84796,'84796','Allée Du Grand-Pic / Chemin St-Charles',45.713891,-73.498242
 84830,'84830','Migrateurs / Bruant',45.716615,-73.503607
-85014,'85014','Walmart',45.719807,-73.502009
-85080,'85080','Montée Des Pionniers / Voie',45.72775,-73.508365
-85081,'85081','Migrateurs / Bébérama',45.718904,-73.503849
+85014,'85014','Walmart',45.718172,-73.501672
+85080,'85080','Montée Des Pionniers / Tim Horton',45.72775,-73.508365
 85086,'85086','Montée Des Pionniers / Hôpital Pierre Le-Gardeur',45.723879,-73.508005
-85087,'85087','Montée Des Pionniers / Voie',45.726046,-73.508003
 85089,'85089','Montée Des Pionniers / Pierre-Laporte',45.709948,-73.512333
 85253,'85253','Montée Des Pionniers / Montée Des Pionniers',45.721294,-73.508301
 85776,'85776','Montée Des Pionniers / Fleurs',45.712928,-73.51227
@@ -25,6 +23,7 @@
 87013,'87013','CÉGEP L''Assomption',45.829668,-73.420903
 87014,'87014','Ange-Gardien Nord / Notre-Dame',45.826868,-73.424871
 87015,'87015','Ange-Gardien / CHSLD Meilleur',45.825219,-73.426097
+87016,'87016','1251 Rue Notre-Dame',45.882915,-73.279097
 87017,'87017','Ange-Gardien Nord / Forest',45.82274,-73.430241
 87018,'87018','Ange-Gardien Nord / Papin',45.821494,-73.432652
 87019,'87019','Thibodeau / Labonté',45.899689,-73.425609
@@ -93,7 +92,7 @@
 87087,'87087','Larochelle / Mireault',45.72262,-73.478702
 87088,'87088','Larochelle / Assomption',45.721137,-73.479662
 87089,'87089','Assomption / Claude-David',45.719651,-73.479919
-87092,'87092','Iberville / Jacques-Plante',45.787786,-73.408847
+87092,'87092','Iberville / Jacques-Plante',45.787793,-73.40886
 87095,'87095','Rivières / Ouareau',45.784128,-73.4352
 87096,'87096','Basile-Routhier / 1333',45.782108,-73.433471
 87098,'87098','Rivières / Mingan',45.785571,-73.437688
@@ -213,7 +212,7 @@
 87221,'87221','Brien / Maxi',45.743614,-73.453574
 87222,'87222','Brien / Aréna',45.742978,-73.452091
 87223,'87223','Brien / Robillard',45.741444,-73.448503
-87224,'87224','Brien / St-Yves',45.740148,-73.445487
+87224,'87224','Brien / Notre-Dame',45.740148,-73.445487
 87225,'87225','Notre-Dame / Hôtel-De-Ville',45.738006,-73.447593
 87226,'87226','Notre-Dame / Sarto',45.734676,-73.451
 87227,'87227','Notre-Dame / Aqueduc',45.732391,-73.453809
@@ -402,7 +401,6 @@
 87662,'87662','Gélinas / Gervais',45.741269,-73.461387
 87663,'87663','Lemoyne / Iberville',45.723447,-73.467509
 87664,'87664','Laforest / Lemoyne',45.723879,-73.473326
-87665,'87665','Masson / Industriel',45.756057,-73.444407
 87700,'87700','Dorval / Ange-Gardien',45.828929,-73.420214
 87701,'87701','St-Étienne / St-Joachim',45.826805,-73.41959
 87702,'87702','St-Étienne / Notre-Dame',45.825394,-73.422101
@@ -447,7 +445,7 @@
 87742,'87742','Charles-Marchand / Félix-Declos',45.759363,-73.487752
 87743,'87743','Félix-Declos / St-Paul',45.760551,-73.487113
 87744,'87744','St-Paul / Bourque',45.761834,-73.489389
-87745,'87745','St-Paul / Presqu''Île',45.764634,-73.496989
+87745,'87745','St-Paul / Presqu''Île',45.764656,-73.49696
 87746,'87746','Presqu''Île / Montée Roger',45.76292,-73.499001
 87747,'87747','Presqu''Île / Jean-Pierre',45.754641,-73.50682
 87748,'87748','Presqu''Île / Monique',45.753316,-73.507286
@@ -502,7 +500,7 @@
 87801,'87801','Sacré-Coeur / Émile-Des-Pins',45.723095,-73.489058
 87802,'87802','Sacré-Coeur / Ste-Thérèse',45.724117,-73.490446
 87803,'87803','Sacré-Coeur / Ouellette',45.724885,-73.49149
-87804,'87804','Sacré-Coeur / Carufel',45.726681,-73.493932
+87804,'87804','Sacré-Coeur / Carufel',45.726678,-73.493836
 87805,'87805','Carufel / Camille',45.727634,-73.492257
 87806,'87806','Camille / Ricard',45.727189,-73.491459
 87807,'87807','Ricard / St-Jacques',45.728932,-73.489429
@@ -685,7 +683,7 @@
 88335,'88335','Iberville / Lorange',45.720461,-73.470606
 88336,'88336','Iberville / Notre-Dame',45.718458,-73.468478
 88337,'88337','Iberville / Aubert',45.740038,-73.452369
-88338,'88338','St-Antoine Sud / Notre-Dame',45.884708,-73.277244
+88338,'88338','Notre-Dame / St-Antoine',45.884617,-73.277404
 88339,'88339','Notre-Dame / Ostiguy',45.881344,-73.280394
 88340,'88340','Notre-Dame / Terr. Turnbull',45.878125,-73.284963
 88341,'88341','Notre-Dame / Espérance',45.876619,-73.287087
@@ -790,9 +788,11 @@
 88626,'88626','Sherbrooke Est / Taillon',45.609119,-73.527718
 88627,'88627','Sherbrooke Est / Ormeaux',45.604472,-73.530081
 88628,'88628','Sherbrooke Est / Ormeaux',45.604714,-73.530286
-88632,'88632','Métro Honoré-Beaugrand',45.596409,-73.534992
-88633,'88633','Métro Honoré-Beaugrand',45.5966,-73.535133
-88643,'88643','Terminus Radisson',45.589761,-73.539893
+88629,'88629','Sherbrooke / Polyvalente Pointe-Aux-Trembles',45.685717,-73.499179
+88630,'88630','Sherbrooke / Polyvalente Pointe-Aux-Trembles',45.686142,-73.499336
+88632,'88632','Métro Honoré-Beaugrand',45.596304,-73.534889
+88633,'88633','Métro Honoré-Beaugrand',45.59662,-73.535145
+88643,'88643','Terminus Radisson',45.589765,-73.539891
 88658,'88658','Notre-Dame Est / Raoul-Jobin',45.695328,-73.487234
 88659,'88659','Notre-Dame Est / Raoul-Jobin',45.695375,-73.487306
 88663,'88663','Notre-Dame Est / 86e Av.',45.692564,-73.488453
