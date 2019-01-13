@@ -6,7 +6,7 @@ Horaires…
 ----------
 What's new in this version?:
 (AMT/MRC/RTCR => RTM => exo)
-Horaires du 19 août 2018 au 24 mars 2019.
+Horaires du 13 janvier 2019 au 24 mars 2019.
 ----------
 Full description:
 Cette application ajoute les informations des autobus exo L'Assomption à MonTransit.
