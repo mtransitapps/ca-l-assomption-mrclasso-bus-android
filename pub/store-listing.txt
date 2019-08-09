@@ -6,7 +6,7 @@ Schedule…
 ----------
 What's new in this version?:
 (AMT/MRC/RTCR => RTM => exo)
-Schedule from June 24, 2019 to August 18, 2019.
+Schedule from June 24, 2019 to January 5, 2020.
 ----------
 Full description:
 This application adds exo L'Assomption buses information to MonTransit.
