@@ -11,7 +11,7 @@
 87000,'87000','Ange-Gardien Nord / Pierrot Ouest',45.855052,-73.435655
 87001,'87001','Adhémar-Raynault / Éthier',45.890843,-73.428881
 87002,'87002','Ange-Gardien Nord / Anémone',45.849919,-73.428636
-87003,'87003','Ange-Gardien Nord / Francœur',45.849038,-73.427432
+87003,'87003','Ange-Gardien Nord / Francœur',45.849387,-73.427934
 87004,'87004','Ange-Gardien Nord / Gilbert',45.848345,-73.426498
 87005,'87005','Ange-Gardien Nord / Turgeon',45.846518,-73.424023
 87006,'87006','Ange-Gardien Nord / Vaillant',45.84527,-73.422311
@@ -356,6 +356,8 @@
 87574,'87574','Notre-Dame / Cour-Villeneuve',45.722475,-73.483144
 87576,'87576','Lacombe / Aline-Turgeon',45.734575,-73.483911
 87577,'87577','Gare Repentigny',45.736025,-73.484399
+87578,'87578','Route 341 / Devant Le Civique #276 (Tim Horton',45.793385,-73.413687
+87579,'87579','Route 341 / #276 (Tim Hortons)',45.793443,-73.413318
 87600,'87600','Iberville / Devant L''Hôtel De Ville De Repentigny',45.741341,-73.451226
 87601,'87601','Aubert / Iberville',45.740201,-73.452767
 87602,'87602','Gervais / Église',45.741294,-73.457294
@@ -723,7 +725,7 @@
 88434,'88434','Notre-Dame / Devant Le Civique #966',45.824644,-73.361277
 88435,'88435','Notre-Dame / Verdier',45.779885,-73.404712
 88439,'88439','Notre-Dame / Devant Le Civique #504',45.741391,-73.442654
-88440,'88440','Notre-Dame / St-Antoine Sud',45.884752,-73.277006
+88440,'88440','Notre-Dame / St-Antoine Sud',45.885305,-73.277454
 88441,'88441','Notre-Dame / Montée Guy-Mousseau',45.86932,-73.29762
 88442,'88442','Notre-Dame / Douaire-De Bondy',45.871501,-73.294226
 88443,'88443','Notre-Dame / Domaine-Caché',45.87376,-73.290929
