@@ -25,3 +25,5 @@
 40000,0,'Assomption',400
 40001,0,'Montréal',400
 2000100,0,'Repentigny',20001
+2000301,0,'Ligne 9 Vers Taxibus T3',20003
+2000300,0,'Taxibus T3 Vers Ligne 9',20003
