@@ -11,7 +11,6 @@
 87000,'87000','Ange-Gardien Nord / Pierrot Ouest',45.855052,-73.435655
 87001,'87001','Adhémar-Raynault / Éthier',45.890843,-73.428881
 87002,'87002','Ange-Gardien Nord / Anémone',45.849919,-73.428636
-87003,'87003','Ange-Gardien Nord / Francœur',45.849387,-73.427934
 87004,'87004','Ange-Gardien Nord / Gilbert',45.848345,-73.426498
 87005,'87005','Ange-Gardien Nord / Turgeon',45.846518,-73.424023
 87006,'87006','Ange-Gardien Nord / Vaillant',45.84527,-73.422311
@@ -301,7 +300,7 @@
 87442,'87442','Rang De L''Achigan / Commissaires',45.832403,-73.445095
 87443,'87443','Route 341 / Majeau',45.850212,-73.495081
 87444,'87444','Angélique / Soleil',45.858575,-73.513333
-87445,'87445','Béram / 341',45.859808,-73.508455
+87445,'87445','Béram / 341',45.85957,-73.508572
 87446,'87446','Route 341 / Majeau',45.850261,-73.495192
 87500,'87500','Terminus Repentigny',45.746751,-73.453492
 87501,'87501','Brien / Alice-Forest',45.752166,-73.468678
@@ -590,7 +589,7 @@
 87909,'87909','Rang Du Bas-De-L''Assomption Nord / Thouin',45.780306,-73.452021
 87910,'87910','Rg Bas-L''Assomption Nord / #1980',45.777207,-73.451712
 87911,'87911','Lacombe / Bourg-Neuf',45.77011,-73.452132
-87912,'87912','Lacombe / Chantal',45.764876,-73.455936
+87912,'87912','Lacombe / Chatel',45.764876,-73.455936
 87913,'87913','Lacombe / Paix',45.76201,-73.458507
 87914,'87914','Lacombe / Hervieux',45.75846,-73.461042
 87915,'87915','Lacombe / J.-A.-Paré',45.756459,-73.462896
@@ -600,7 +599,7 @@
 88001,'88001','Lacombe / J.-A.-Paré',45.756039,-73.46328
 88002,'88002','Lacombe / Hervieux',45.758612,-73.460808
 88003,'88003','Lacombe / Paix',45.762162,-73.458228
-88004,'88004','Lacombe / Chantal',45.764737,-73.455872
+88004,'88004','Lacombe / Chatel',45.764671,-73.455919
 88005,'88005','Lacombe / Bourg-Neuf',45.768807,-73.452417
 88006,'88006','Rg Bas-L''Assomption Nord / Devant Le Civique #1980',45.777313,-73.451554
 88007,'88007','Rang Du Bas-De-L''Assomption Nord / Thouin',45.780275,-73.451803
@@ -739,7 +738,7 @@
 88434,'88434','Notre-Dame / Devant Le Civique #966',45.824644,-73.361277
 88435,'88435','Notre-Dame / Verdier',45.779885,-73.404712
 88439,'88439','Notre-Dame / Devant Le Civique #504',45.741391,-73.442654
-88440,'88440','Notre-Dame / St-Antoine Sud',45.885305,-73.277454
+88440,'88440','St-Antoine Nord / Habel',45.885305,-73.277454
 88441,'88441','Notre-Dame / Montée Guy-Mousseau',45.86932,-73.29762
 88442,'88442','Notre-Dame / Douaire-De Bondy',45.871501,-73.294226
 88443,'88443','Notre-Dame / Domaine-Caché',45.87376,-73.290929
