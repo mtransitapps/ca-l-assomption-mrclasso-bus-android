@@ -2,16 +2,17 @@ Title: Bus exo L'Assomption - MonTransit
 ----------
 Short description:
 Autobus exo L'Assomption pour MonTransit.
-Horaires…
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 (AMT/MRC/RTCR => RTM => exo)
 Horaires du 17 septembre 2019 au 5 janvier 2020.
+Tweets de @exo_LAssomption.
 ----------
 Full description:
 Cette application ajoute les informations des autobus exo L'Assomption à MonTransit.
 
-Cette application contient les horaires (disponibles sans connexion).
+Cette application contient les horaires et les dernières nouvelles de @exo_LAssomption sur Twitter.
 
 exo L'Assomption dessert Charlemagne, L'Assomption, L'Épiphanie et Repentigny.
 
@@ -31,3 +32,6 @@ Cette application n'est pas associée au Réseau de Transport Métropolitain (RT
 
 exo L'Assomption était précédemment connu sous le nom de RTM Secteur L'Assomption et MRC L'Assomption (RTCR).
 exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
+
+Autorisations :
+- Autres: requis pour lire les nouvelles (Twitter)
