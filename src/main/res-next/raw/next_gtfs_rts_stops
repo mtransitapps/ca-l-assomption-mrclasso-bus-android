@@ -130,6 +130,8 @@
 87130,'87130','Basile-Routhier / Bécancour',45.763506,-73.448071
 87131,'87131','Basile-Routhier / Boisbriand',45.764967,-73.447289
 87132,'87132','Basile-Routhier / Valmont',45.767775,-73.446117
+87133,'87133','St-Sulpice / Point-Du-Jour Sud',45.834655,-73.410813
+87134,'87134','St-Sulpice / Bas-De-L''Assomption Sud',45.834676,-73.411317
 87135,'87135','Beauchesne / Sinclair',45.767039,-73.435298
 87136,'87136','Beauchesne / Sanguinet',45.768854,-73.433669
 87137,'87137','Beauchesne / Sorel',45.769998,-73.432613
@@ -648,6 +650,7 @@
 88212,'88212','Bourg-Neuf / Émile-Genest',45.774302,-73.459977
 88213,'88213','Bourg-Neuf / Croissant Françoise-Loranger',45.77247,-73.457618
 88214,'88214','Jean-Duceppe / Bourg-Neuf',45.771119,-73.455926
+88300,'88300','Notre-Dame / 868',45.82273,-73.365717
 88301,'88301','Landreville / Devant Le Civique #105',45.827409,-73.355178
 88302,'88302','Landreville / Sulpiciens',45.828935,-73.358946
 88303,'88303','Landreville / Giguère',45.830807,-73.363416
@@ -737,6 +740,7 @@
 88433,'88433','Notre-Dame / Devant Le Civique #764',45.813631,-73.372397
 88434,'88434','Notre-Dame / Devant Le Civique #966',45.824644,-73.361277
 88435,'88435','Notre-Dame / Verdier',45.779885,-73.404712
+88436,'88436','Notre-Dame / Devant Le Civique 868',45.822718,-73.365511
 88439,'88439','Notre-Dame / Devant Le Civique #504',45.741391,-73.442654
 88440,'88440','St-Antoine Nord / Habel',45.885305,-73.277454
 88441,'88441','Notre-Dame / Montée Guy-Mousseau',45.86932,-73.29762
@@ -803,3 +807,6 @@
 88670,'88670','Notre-Dame / 53e Av.',45.670518,-73.494072
 88671,'88671','Notre-Dame / Rousselière',45.667389,-73.494277
 88672,'88672','Notre-Dame / Rousselière',45.667696,-73.494447
+88673,'88673','Notre-Dame / Devant Le Civique 1637',45.837752,-73.326721
+88674,'88674','Notre-Dame / 1637',45.83783,-73.326886
+88766,'88766','Brien / Banque Laurentienne',45.743443,-73.452546
