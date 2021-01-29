@@ -22,7 +22,7 @@
 87012,'87012','Ange-Gardien / Meilleur',45.8322,-73.418482
 87013,'87013','Ange-Gardien / Dorval',45.829668,-73.420903
 87014,'87014','Ange-Gardien / Notre-Dame',45.826868,-73.424871
-87015,'87015','Ange-Gardien / Centre D''Hébergement',45.825219,-73.426097
+87015,'87015','Ange-Gardien / Ctr D''Hébergement',45.825219,-73.426097
 87016,'87016','1251 Rue Notre-Dame',45.882915,-73.279097
 87017,'87017','Ange-Gardien / Forest',45.82274,-73.430241
 87018,'87018','Ange-Gardien / Hector-Papin',45.821494,-73.432652
@@ -154,11 +154,11 @@
 87154,'87154','Adhémar-Raynault / #2568',45.892289,-73.427734
 87155,'87155','Adhémar-Raynault / Bourque',45.894164,-73.427286
 87156,'87156','Adhémar-Raynault / Clermont',45.896005,-73.429851
-87157,'87157','Ange-Gardien / Place Thérèse',45.893319,-73.43318
+87157,'87157','Ange-Gardien / Pl Thérèse',45.893319,-73.43318
 87158,'87158','Ange-Gardien / Adhémar-Raynault',45.889318,-73.431541
 87159,'87159','Ange-Gardien / Forest',45.822741,-73.430157
 87160,'87160','Ange-Gardien / Marguerite-Bourgeoys',45.823656,-73.428012
-87161,'87161','Ange-Gardien / Centre D''Hébergement',45.825198,-73.426064
+87161,'87161','Ange-Gardien / Ctr D''Hébergement',45.825198,-73.426064
 87162,'87162','Ange-Gardien / Notre-Dame',45.826922,-73.424646
 87163,'87163','Ange-Gardien / Dorval',45.829467,-73.420956
 87164,'87164','Ange-Gardien / Meilleur',45.832017,-73.418468
@@ -291,14 +291,14 @@
 87428,'87428','Garda / Béram',45.858999,-73.5087
 87430,'87430','Notre-Dame / Coderre',45.847112,-73.491372
 87431,'87431','1re Av / Sulpiciens',45.852437,-73.476319
-87432,'87432','Rang De L''Achigan / Centre Administratif',45.852646,-73.47114
+87432,'87432','Rang De L''Achigan / Ctr Administratif',45.852646,-73.47114
 87433,'87433','Rang Du Bas-De-L''Achigan / Rang St-Esprit',45.85273,-73.460396
 87434,'87434','Rang De L''Achigan / Beauchamp',45.846608,-73.447497
 87435,'87435','Rang De L''Achigan / Commissaires',45.832411,-73.445125
 87436,'87436','Route 341 / Licorne',45.851655,-73.496649
 87437,'87437','Notre-Dame / Coderre',45.847178,-73.491356
 87438,'87438','1re Av / Sulpiciens',45.852732,-73.475599
-87439,'87439','Rang De L''Achigan / Centre Administratif',45.852651,-73.471107
+87439,'87439','Rang De L''Achigan / Ctr Administratif',45.852651,-73.471107
 87440,'87440','Rang Du Bas-De-L''Achigan / Rang St-Esprit',45.852748,-73.460332
 87441,'87441','Rang De L''Achigan / Beauchamp',45.846608,-73.447457
 87442,'87442','Rang De L''Achigan / Commissaires',45.832403,-73.445095
@@ -315,7 +315,7 @@
 87506,'87506','Lacombe / CLSC',45.744511,-73.479442
 87507,'87507','Lacombe / #155',45.742802,-73.480915
 87508,'87508','Lacombe / Ermitois',45.73988,-73.482785
-87509,'87509','Lacombe / Place Mirabelle',45.73815,-73.483126
+87509,'87509','Lacombe / Pl Mirabelle',45.73815,-73.483126
 87510,'87510','Lacombe / #35',45.732909,-73.484901
 87511,'87511','Notre-Dame / St-Jacques',45.726721,-73.484245
 87512,'87512','Notre-Dame / Nicoud',45.724667,-73.483512
@@ -344,7 +344,7 @@
 87561,'87561','Notre-Dame / Nicoud',45.724664,-73.483353
 87562,'87562','Notre-Dame / St-Jacques',45.726205,-73.483801
 87563,'87563','Lacombe / #35',45.733377,-73.484502
-87564,'87564','Lacombe / Place Mirabelle',45.737988,-73.482934
+87564,'87564','Lacombe / Pl Mirabelle',45.737988,-73.482934
 87565,'87565','Lacombe / Ermitois',45.739763,-73.482653
 87566,'87566','Lacombe / #155',45.742761,-73.480756
 87567,'87567','Lacombe / #193',45.744527,-73.47917
@@ -544,7 +544,7 @@
 87844,'87844','St-Paul / Borduas',45.758955,-73.483771
 87845,'87845','Lacombe / Longpré',45.754961,-73.466365
 87846,'87846','Lacombe / Latendresse',45.754468,-73.468112
-87847,'87847','Lacombe / Place',45.753988,-73.469236
+87847,'87847','Lacombe / Pl',45.753988,-73.469236
 87848,'87848','Leclerc / Louvain',45.747388,-73.451569
 87849,'87849','Leclerc / Landreville',45.749611,-73.448275
 87850,'87850','Leclerc / Laroche',45.751297,-73.44676
@@ -565,7 +565,7 @@
 87882,'87882','St-Paul / Ston',45.754393,-73.474486
 87883,'87883','St-Paul / Laverdière',45.757072,-73.479733
 87884,'87884','J-A-Paré / #226',45.762728,-73.476176
-87885,'87885','J-A-Paré / Centre Laurent-Venne',45.76282,-73.476531
+87885,'87885','J-A-Paré / Ctr Laurent-Venne',45.76282,-73.476531
 87901,'87901','Bourg-Neuf / Jean-Duceppe',45.771243,-73.456002
 87902,'87902','Ange-Gardien N / Beaudoin',45.860422,-73.440601
 87903,'87903','Ange-Gardien N / St-Jean O',45.853251,-73.43319
@@ -678,7 +678,7 @@
 88339,'88339','Notre-Dame / Ostiguy',45.881344,-73.280394
 88340,'88340','Notre-Dame / Turnbull',45.878125,-73.284963
 88341,'88341','Notre-Dame / Espérance',45.876619,-73.287087
-88342,'88342','Notre-Dame / Place Du Golf',45.873951,-73.290886
+88342,'88342','Notre-Dame / Pl Du Golf',45.873951,-73.290886
 88343,'88343','Notre-Dame / Levert',45.871671,-73.294187
 88344,'88344','Notre-Dame / Mtée Guy-Mousseau',45.86931,-73.297823
 88345,'88345','Jacques-Plante / Louis-Philippe-Picard',45.787122,-73.405828
@@ -744,7 +744,7 @@
 88504,'88504','Ange-Gardien / Pierrot O',45.854899,-73.435196
 88570,'88570','Sherbrooke / Gouin',45.697204,-73.491823
 88571,'88571','Sherbrooke / 81e Av',45.690511,-73.497868
-88572,'88572','Sherbrooke / Gare Pointe-Aux-Trembles',45.675774,-73.502899
+88572,'88572','Sherbrooke / Gare Pte-Aux-Trembles',45.675774,-73.502899
 88573,'88573','Sherbrooke / 53e Av',45.672187,-73.504105
 88574,'88574','Sherbrooke / Rousselière',45.669565,-73.505209
 88575,'88575','Sherbrooke / 40e Av',45.663691,-73.507173
@@ -761,7 +761,7 @@
 88586,'88586','Sherbrooke / 40e Av',45.663492,-73.50688
 88587,'88587','Sherbrooke / Rousselière',45.669071,-73.504884
 88588,'88588','Sherbrooke / 53e Av',45.6721,-73.504057
-88589,'88589','Sherbrooke / Gare Pointe-Aux-Trembles',45.673582,-73.503423
+88589,'88589','Sherbrooke / Gare Pte-Aux-Trembles',45.673582,-73.503423
 88590,'88590','Sherbrooke / 81e Av',45.690098,-73.49761
 88591,'88591','Sherbrooke / Gouin',45.696916,-73.49174
 88595,'88595','Notre-Dame / George-V',45.611515,-73.51043
@@ -780,8 +780,8 @@
 88626,'88626','Sherbrooke / Taillon',45.609119,-73.527718
 88627,'88627','Sherbrooke / Ormeaux',45.604472,-73.530081
 88628,'88628','Sherbrooke / Ormeaux',45.604714,-73.530286
-88629,'88629','Sherbrooke / Polyvalente Pointe-Aux-Trembles',45.685717,-73.499179
-88630,'88630','Sherbrooke / Polyvalente Pointe-Aux-Trembles',45.686142,-73.499336
+88629,'88629','Sherbrooke / Polyvalente Pte-Aux-Trembles',45.685717,-73.499179
+88630,'88630','Sherbrooke / Polyvalente Pte-Aux-Trembles',45.686142,-73.499336
 88632,'88632','Sherbrooke / Honoré-Beaugrand',45.596304,-73.534889
 88633,'88633','Sherbrooke / Ston Honoré-Beaugrand',45.59662,-73.535145
 88643,'88643','Term Radisson',45.589765,-73.539891
