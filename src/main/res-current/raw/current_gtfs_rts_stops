@@ -144,7 +144,7 @@
 87143,'87143','Noiseux / Norvège',45.778126,-73.422814
 87144,'87144','Noiseux / Navaronne',45.778499,-73.420489
 87145,'87145','Noiseux / Iberville',45.777885,-73.41788
-87146,'87146','Basile-Routhier / Bruyères',45.775615,-73.441476
+87146,'87146','Basile-Routhier / Lisbonne',45.775615,-73.441476
 87147,'87147','Iberville / Rembrandt',45.781813,-73.413934
 87148,'87148','Iberville / Valcourt',45.783148,-73.412718
 87149,'87149','Iberville / Jacques-Cousteau',45.785105,-73.41093
@@ -215,7 +215,7 @@
 87220,'87220','Term Repentigny (Q:1)',45.746195,-73.453053
 87221,'87221','Brien / #86',45.743614,-73.453574
 87222,'87222','Brien / Arena Repentigny',45.742978,-73.452091
-87223,'87223','Brien / Robillard',45.741444,-73.448503
+87223,'87223','Brien / Robillard',45.741668,-73.449112
 87224,'87224','Brien / Notre-Dame',45.740148,-73.445487
 87225,'87225','Notre-Dame / Allée Des Artistes',45.738006,-73.447593
 87226,'87226','Notre-Dame / Sarto',45.734676,-73.451
@@ -269,7 +269,7 @@
 87404,'87404','Notre-Dame / St-Louis',45.847788,-73.489354
 87405,'87405','Notre-Dame / Leblanc',45.848427,-73.486696
 87406,'87406','Notre-Dame / Couvent',45.84915,-73.485002
-87407,'87407','Notre-Dame / Hôtel-De-Ville',45.849832,-73.483993
+87407,'87407','Notre-Dame / Charpentier',45.849803,-73.483954
 87408,'87408','Notre-Dame / 4e Av',45.851804,-73.481069
 87409,'87409','Notre-Dame / 1re Av',45.853506,-73.478569
 87410,'87410','Rang De L''Achigan / Bouchard',45.825559,-73.439516
@@ -582,7 +582,7 @@
 87903,'87903','Ange-Gardien N / St-Jean O',45.853251,-73.43319
 87904,'87904','Ange-Gardien / #723',45.820036,-73.43526
 87905,'87905','Ange-Gardien / Roquebrune',45.815693,-73.432212
-87906,'87906','Rg Du Bas-De-L''Assomption N / Domaine-Astral',45.804118,-73.436296
+87906,'87906','Rg Du Bas-De-L''Assomption N / Domaine-Astral',45.80081,-73.438197
 87907,'87907','Rang Du Bas-De-L''Assomption N / Godfrind',45.787878,-73.44433
 87908,'87908','Rang Du Bas-De-L''Assomption N / Jobin',45.785676,-73.447339
 87909,'87909','Rang Du Bas-De-L''Assomption N / Thouin',45.780306,-73.452021
@@ -604,7 +604,7 @@
 88007,'88007','Rang Du Bas-De-L''Assomption N / Thouin',45.780275,-73.451803
 88008,'88008','Rang Du Bas-De-L''Assomption N / Filiatrault',45.785552,-73.447385
 88009,'88009','Rang Du Bas-De-L''Assomption N / Godfrind',45.787778,-73.444226
-88010,'88010','Rg Du Bas-De-L''Assomption N / Domaine-Astral',45.804106,-73.43614
+88010,'88010','Rg Du Bas-De-L''Assomption N / Domaine-Astral',45.800819,-73.437985
 88011,'88011','Ange-Gardien N / Beaudoin',45.860419,-73.440457
 88013,'88013','Adhémar-Raynault / Chevaudier',45.88969,-73.430706
 88100,'88100','Jean-Duceppe / Jetté',45.770913,-73.456543
@@ -694,7 +694,7 @@
 88344,'88344','Notre-Dame / Mtée Guy-Mousseau',45.86931,-73.297823
 88345,'88345','Jacques-Plante / Louis-Philippe-Picard',45.787122,-73.405828
 88346,'88346','Louis-Philippe-Picard / Rabelais',45.784818,-73.405064
-88347,'88347','Louis-Philippe-Picard / Notre-Dame',45.783018,-73.401606
+88347,'88347','Louis-Philippe-Picard / Notre-Dame',45.783311,-73.40227
 88348,'88348','Notre-Dame / Verdier',45.779799,-73.404704
 88349,'88349','Giguère / Émile',45.827902,-73.366178
 88350,'88350','Émile / Sulpiciens',45.826484,-73.363188
@@ -715,7 +715,7 @@
 88410,'88410','Notre-Dame / Lebel',45.73774,-73.447743
 88411,'88411','Notre-Dame / Claude',45.739282,-73.446196
 88412,'88412','Notre-Dame / Rémi',45.740839,-73.443628
-88413,'88413','Notre-Dame / #120',45.74219,-73.441438
+88413,'88413','Notre-Dame / #520',45.74216,-73.441396
 88414,'88414','Notre-Dame / #544',45.744034,-73.439176
 88415,'88415','Notre-Dame / Ritchot',45.746296,-73.437121
 88416,'88416','Notre-Dame / Joffre',45.748871,-73.434753
@@ -752,7 +752,7 @@
 88501,'88501','Notre-Dame / Hamel',45.729959,-73.485495
 88502,'88502','Notre-Dame / Hamel',45.729871,-73.485352
 88503,'88503','Lacombe / #9',45.73082,-73.485313
-88504,'88504','Ange-Gardien / Pierrot E',45.854899,-73.435196
+88504,'88504','Ange-Gardien / Pierrot O',45.855117,-73.435521
 88570,'88570','Sherbrooke / Gouin',45.697204,-73.491823
 88571,'88571','Sherbrooke / 81e Av',45.690511,-73.497868
 88572,'88572','Sherbrooke / Gare Pte-Aux-Trembles',45.675774,-73.502899
