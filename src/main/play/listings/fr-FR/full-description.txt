@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus exo L'Assomption à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @allo_exo et @exo_LAssomption sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de @allo_exo et @exo_Nord sur Twitter.
 
 exo L'Assomption dessert Charlemagne, L'Assomption, L'Épiphanie et Repentigny.
 

@@ -1,6 +1,6 @@
 This application adds exo L'Assomption buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @allo_exo and @exo_LAssomption on Twitter.
+This app contains the buses schedule and the latest news from @allo_exo and @exo_Nord on Twitter.
 
 exo L'Assomption serves Charlemagne, L'Assomption, L'Épiphanie and Repentigny.
 
