@@ -1,6 +1,6 @@
 This application adds exo L'Assomption buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @allo_exo and @exo_Nord on Twitter.
+This app provides the planned schedule as well as real time service statuses and the latest news from exo.quebec, @allo_exo and @exo_Nord on Twitter.
 
 exo L'Assomption serves Charlemagne, L'Assomption, L'Épiphanie and Repentigny.
 
@@ -22,4 +22,4 @@ exo L'Assomption was formerly known as RTM L'Assomption sector and MRC L'Assompt
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
-- Other: required to read news (Twitter)
+- Other: required for real-time service statuses and to read news from exo.quebec and Twitter

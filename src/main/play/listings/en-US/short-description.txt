@@ -1,2 +1,1 @@
-exo L'Assomption buses for MonTransit
-Schedule. News.
+exo L'Assomption buses for MonTransit. Schedule. Service Status. News.
