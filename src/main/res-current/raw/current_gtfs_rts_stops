@@ -22,7 +22,7 @@
 87010,'87010','Ange-Gardien N / Golf',45.83677,-73.413705,0
 87011,'87011','Ange-Gardien / Barret',45.834019,-73.416665,0
 87012,'87012','Ange-Gardien / Meilleur',45.832209,-73.418483,0
-87013,'87013','Ange-Gardien / Dorval',45.829677,-73.420904,0
+87013,'87013','Ange-Gardien / Dorval (Cégep)',45.829677,-73.420904,0
 87014,'87014','Ange-Gardien / Notre-Dame',45.826878,-73.424872,0
 87015,'87015','Ange-Gardien / Ctr D''Hébergement',45.825253,-73.426158,0
 87016,'87016','1251 Rue Notre-Dame',45.882924,-73.279098,0
@@ -162,7 +162,7 @@
 87160,'87160','Ange-Gardien / Marguerite-Bourgeoys',45.823665,-73.428013,0
 87161,'87161','Ange-Gardien / Ctr D''Hébergement',45.825183,-73.426008,0
 87162,'87162','Ange-Gardien / Notre-Dame',45.826932,-73.424648,0
-87163,'87163','Ange-Gardien / Dorval',45.829477,-73.420957,0
+87163,'87163','Ange-Gardien / Dorval (Cégep)',45.829477,-73.420957,0
 87164,'87164','Ange-Gardien / Meilleur',45.832027,-73.418469,0
 87165,'87165','Ange-Gardien / Barret',45.833878,-73.416642,0
 87166,'87166','Ange-Gardien / Mtée De St-Sulpice',45.836485,-73.413697,0
@@ -419,7 +419,7 @@
 87662,'87662','Gélinas / Gervais',45.741278,-73.461389,0
 87663,'87663','Lemoyne / Iberville',45.723456,-73.46751,0
 87664,'87664','Laforest / Lemoyne',45.723889,-73.473327,0
-87700,'87700','Dorval / Ange-Gardien',45.828939,-73.420216,0
+87700,'87700','Dorval / Archambaul (Cégep)',45.828939,-73.420216,0
 87701,'87701','St-Étienne / St-Joachim',45.826814,-73.419591,0
 87702,'87702','St-Étienne / Notre-Dame',45.825403,-73.422102,0
 87703,'87703','St-Étienne / St-Jean-Baptiste',45.824043,-73.424181,0
