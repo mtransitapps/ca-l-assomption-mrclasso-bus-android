@@ -49,6 +49,16 @@ public class LAssomptionMRCLASSOBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String getTripIdCleanupRegex() {
+		return "ASSO\\-\\w{1}\\d{2}\\-(AS_GTFS)\\-"; // remove trip ID shared by all trip IDs (include season letter and YY year)
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^ASSO\\-\\w{1}\\d{2}\\-(AS_GTFS)\\-"; // remove beginning of service ID shared by all service IDs (include season letter and YY year)
+	}
+
+	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
 	}
