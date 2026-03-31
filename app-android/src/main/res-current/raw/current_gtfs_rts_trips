@@ -1,6 +1,6 @@
 100,0,'Assomption',1
 101,0,'Repentigny',1
-200,0,'Lavaltrie',2
+200,0,'Lavaltrie / St-Sulpice',2
 201,0,'Repentigny',2
 501,0,'Gare Repentigny',5
 500,0,'Jacques-Plante / Term Repentigny',5
@@ -22,5 +22,5 @@
 20000,0,'Repentigny',200
 30001,0,'Montréal',300
 30000,0,'Repentigny',300
-40000,0,'Assomption',400
+40000,0,'Assomption / Repentigny / Term Repentigny',400
 40001,0,'Montréal',400
