@@ -1,0 +1,33 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "(secteurs? )",
+            "ignore_case": true,
+            "comment": "remove 'secteur' or 'secteurs' from route long name"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "trip_id_cleanup_regex": "ASSO\\-\\w{1}\\d{2}\\-(AS_GTFS)\\-",
+    "trip_id_cleanup_regex_comment": "remove trip ID shared by all trip IDs (include season letter and YY year)",
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "((^|\\W)(taxibus t(\\d+))(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2T$4$5",
+            "comment": "replace 'taxibus tX' with 'TX'"
+        }
+    ],
+    "use_stop_code_for_stop_id": true,
+    "stop_name_cleaners": [
+        {
+            "regex": "(civique (\\d+))",
+            "ignore_case": true,
+            "replacement": "#$2",
+            "comment": "replace 'civique' with '#'"
+        }
+    ]
+}
